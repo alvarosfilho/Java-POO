@@ -12,9 +12,9 @@ public class App2 {
 
         carro.setCor("");
 
-        carro.setDistancia(200);
+        carro.setDistancia();
 
-        carro.setCombustivel(22);
+        carro.setCombustivel();
 
         
 
