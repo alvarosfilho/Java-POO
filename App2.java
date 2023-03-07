@@ -6,11 +6,11 @@ public class App2 {
         
         Carro carro = new Carro();
 
-        carro.setModelo("Gol");
+        carro.setModelo("");
 
-        carro.setAno("2022");
+        carro.setAno("");
 
-        carro.setCor("Preto");
+        carro.setCor("");
 
         carro.setDistancia(200);
 
